@@ -1,11 +1,11 @@
 <template>
     <div>
-        <table/>
+        <Table />
     </div>
 </template>
 
 <script>
-import Table from '../components/Item.vue'
+import Table from '../components/Table.vue'
 export default {
     components: {
         Table
